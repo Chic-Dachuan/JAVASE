@@ -1,0 +1,2 @@
+Service:cn.edu360.javase24.day10.Reflect.ServiceOnce
+seeService:cn.edu360.javase24.day10.Reflect.seeServiceOne
